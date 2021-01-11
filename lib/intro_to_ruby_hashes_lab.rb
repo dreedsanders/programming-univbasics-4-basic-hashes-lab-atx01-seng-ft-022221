@@ -8,7 +8,6 @@ end
 
 def pioneer
   { name: => "Grace Hopper" }
-  return pioneer
 end
 
 
